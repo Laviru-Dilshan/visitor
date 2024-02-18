@@ -8,8 +8,9 @@ This tool allows you to gather visitor details using a link.
 
 Clone this repository to your local machine using the following command:
 
-git clone <repository-url>
-
+```bash
+git clone https://github.com/Laviru-Dilshan/visitor.git
+```
 
 ### 2. Host Project Using Apache Server (e.g., XAMPP)
 
@@ -23,8 +24,9 @@ Start your Apache server and navigate to the project directory in your web brows
 
 Install Ngrok on your machine. Once installed, use Ngrok to port forward to your local server. For example:
 
+```bash
 ngrok http 80
-
+```
 
 ### 5. Share Link and Monitor Logs
 
@@ -34,3 +36,8 @@ Share the Ngrok-generated link with others. Visitor details will be logged in th
 
 - Ensure proper permissions are set for writing to the log file.
 - Check Ngrok documentation for advanced configuration options.
+
+  ### Follow Me
+  [Linkdin]()
+  [X]()
+  [Facebook]()
