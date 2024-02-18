@@ -38,6 +38,6 @@ Share the Ngrok-generated link with others. Visitor details will be logged in th
 - Check Ngrok documentation for advanced configuration options.
 
   ## Follow Me
-  #### [Linkdin]()
-  #### [X]()
-  #### [Facebook]()
+  #### [Linkdin](https://www.linkedin.com/in/laviru-dilshan)
+  #### [X](https://x.com/laviru_dilshan)
+  #### [Facebook](https://www.facebook.com/LaviruD)
